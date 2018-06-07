@@ -1,6 +1,6 @@
 
             body {
-                background: rgb(125, 198, 205);
+                background: rgb(1, 1, 1);
                 color: rgb(45, 45, 45);
                 padding: 10px;
                 font-family: fantasy;
@@ -16,7 +16,7 @@
     
             /* navigation menu */
             nav {
-                background: rgb(239, 80, 41);
+                background: rgb(2, 150, 58);
                 margin: 0 auto;
                 display: flex;
                 padding: 10px;
@@ -41,7 +41,7 @@
     
             /* main container area beneath menu */
             main {
-                background: rgb(50, 50, 219);
+                background: rgb(50, 50, 200);
                 display: flex;
             }
             .sidebar {
